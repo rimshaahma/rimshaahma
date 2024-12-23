@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Rimsha! 💫
 
-Welcome to my GitHub profile! 🌸 I'm a passionate **web developer** with **6 months of web experience** and **3 months of machine learning (ML) experience** from internships. I'm currently learning to become a **Full Stack Developer** and diving into the **MERN stack**! 🚀✨
+Welcome to my GitHub profile! 🌸 I'm a passionate **web developer** with **6 months of web experience** and **3 months of machine learning (ML) experience** from internships. Currently, I'm diving deep into **Full Stack Development** and mastering the **MERN stack**! 🚀✨
 
 ---
 
 ## 🦄 About Me 🌟
-- 🔭 **Web Development**: With **6 months of web experience**, I've done **2 internships** (3 months each) at **Techohash Software House** and **Ezitech**. 🚀
-- 🌱 **Machine Learning**: I also spent **3 months** working on **machine learning projects** during my internship at **Ezitech**. 🤖✨
-- 💡 **Currently Learning**: I'm focusing on becoming a **Full Stack Developer**, mastering the **MERN stack** (MongoDB, Express, React, Node.js)! 💻💡
-- 👯 **Let’s Collaborate!**: I love collaborating on **web development** and **ML** projects, and I'm always open to learning new things! 💬
-- 🦋 **Fun Fact**: I once built a **ML model** to predict movie ratings! 🎥✨
+- 🔭 **Web Development**: With **6 months of web experience**, I've completed **2 internships** (3 months each) at **Techohash Software House** and **Ezitech**. 🚀
+- 🌱 **Machine Learning**: I spent **3 months** exploring **ML** during my internship at **Ezitech**, working on exciting projects! 🤖✨
+- 💡 **Currently Learning**: Focused on becoming a **Full Stack Developer**, I’m learning the ins and outs of the **MERN stack** (MongoDB, Express, React, Node.js)! 💻💡
+- 👯 **Let’s Collaborate!**: Always open to working on **web development**, **ML**, and **Full Stack** projects! If you have an exciting idea, let’s connect! 💬
+- 🦋 **Fun Fact**: I built a **ML model** that predicts movie ratings! 🎥✨
 
 ---
 
@@ -32,16 +32,17 @@ Welcome to my GitHub profile! 🌸 I'm a passionate **web developer** with **6 m
 
 ## 🌱 Let's Connect! 💌
 - 🐦 [Twitter](https://twitter.com/rimshaahma)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/rimshaahma)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/rimsha-a-b7b774250/)
 - 🌐 [Personal Portfolio](https://your-portfolio.com)
 
 ---
 
 ## 📂 My Projects 📌
-- 🎉 [Project 1](https://github.com/rimshaahma/project-1) — A cool web app I built with React! 💻
-- 🌱 [Project 2](https://github.com/rimshaahma/project-2) — A machine learning project that predicts movie ratings! 🎥📊
-- 🚀 [Project 3](https://github.com/rimshaahma/project-3) — A fun web project I’m working on at the moment! 🎨
+- 🎉 [**HyerTitanic ML Optimizer**](https://github.com/rimshaahma/HyerTitanic_ML_optimizer) — A **machine learning project** to predict Titanic survivors! 🚢🤖
+- 🌱 [**Monogramcc Website**](https://github.com/rimshaahma/Monogramcc_Website) — A **responsive**, **interactive** website! 🎨🌍
+- 🚀 [**Avo Website Clone**](https://github.com/rimshaahma/Avo-website) — A **fully responsive** clone of the Avo website! 🥑✨
 
 ---
 
 ## 🎉 Thanks for visiting my profile! 😄✨
+I'm excited about what’s coming next, and I hope we can collaborate soon! Let's build something amazing together! 💪🎉
